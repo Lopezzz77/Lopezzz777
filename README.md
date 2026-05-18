@@ -1,4 +1,7 @@
-
+Informática
+César Gabriel López
+7º1 
+E.E.S.T Nº1
 
 🟢  Frontend
 
