@@ -1,11 +1,11 @@
 
- Estudiante de Informática.
+ 🎓 Estudiante de Informática.
  
- Escuela: E.E.S.T Nº1
+ 🏤 Escuela: E.E.S.T Nº1
  
- Buenos Aires, Esteban Echeverria.
+ 🔻 Buenos Aires, Esteban Echeverria.
  
- Email: Cesargabrielolopez77@gmail.com
+📧 Email: Cesargabrielolopez77@gmail.com
  
 🟢  Frontend
 
