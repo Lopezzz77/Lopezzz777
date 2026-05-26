@@ -15,8 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
-
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 
